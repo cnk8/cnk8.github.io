@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://cnk8.live</id>
+    <id>https://cnk8.github.io</id>
     <title>Cnk8.Live</title>
-    <updated>2022-03-13T10:28:55.600Z</updated>
+    <updated>2022-03-13T10:30:52.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://cnk8.live"/>
-    <link rel="self" href="http://cnk8.live/atom.xml"/>
+    <link rel="alternate" href="https://cnk8.github.io"/>
+    <link rel="self" href="https://cnk8.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://cnk8.live/images/avatar.png</logo>
-    <icon>http://cnk8.live/favicon.ico</icon>
+    <logo>https://cnk8.github.io/images/avatar.png</logo>
+    <icon>https://cnk8.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Cnk8.Live</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://cnk8.live/post/欢迎光临！/</id>
-        <link href="http://cnk8.live/post/欢迎光临！/">
+        <id>https://cnk8.github.io/post/欢迎光临！/</id>
+        <link href="https://cnk8.github.io/post/欢迎光临！/">
         </link>
         <updated>2022-03-13T10:21:08.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
